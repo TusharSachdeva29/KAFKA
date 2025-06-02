@@ -1,0 +1,12 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "main": "admin.js",
+  "repository": "https://github.com/TusharSachdeva29/KAFKA.git",
+  "author": "TusharSachdeva29 <sachdevatushar81@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "type": "module"
+}
